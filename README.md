@@ -4,4 +4,6 @@ The Monte Carlo method (aka simulation) is a mathematical technique that utilize
 
 By leveraging probability distributions, a Monte Carlo simulation builds a model of possible results and enables the measurement of uncertainty or risk in the model output.
 
-This repo is a sandbox for experimenting with Monte Carlo simulations in Python.
+This repo is a sandbox for experimenting with Monte Carlo simulations in Python:
+
+- [Profit Projections](https://github.com/data-sandbox/monte-carlo/blob/main/profit_projection.ipynb) - Simulation to forecast future profits for a generalized business with a porfolio of products, with sales of each product modeled as a probability distribution.
